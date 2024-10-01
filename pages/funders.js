@@ -15,7 +15,7 @@ const Funding = () => {
             The laboratory is funded by a Career Development Award from <a href="https://wellcome.org/" className="underline hover:text-blue-600">Wellcome</a>. 
           </p>
 
-          <img  className="w-32 h-32 rounded-full mx-auto mb-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/512px-Wellcome_Trust_logo.svg.png" alt="Wellcome Trust" />
+          <img  className="w-32 h-32 my-8 rounded-full mx-auto mb-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/512px-Wellcome_Trust_logo.svg.png" alt="Wellcome Trust" />
 
         </div>
       </section>
