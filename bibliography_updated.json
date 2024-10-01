@@ -869,22 +869,23 @@
     "id": "sanderson2021systematic",
     "title": "Systematic Errors Associated with Some Implementations of ARTIC V4 and a Fast Workflow to Prescreen Samples for New Problematic Sites",
     "authors": [
-      "McBroome, Jakob",
-      "Thornlow, Bryan",
-      "Hinrichs, Angie S.",
-      "De Maio, Nicola",
-      "Goldman, Nick",
-      "Haussler, David",
-      "Corbett-Detig, Russell",
-      "Turakhia, Yatish"
-    ],
+    "Sanderson, Theo",
+    "De Maio, Nicola",
+    "Hinrichs, Angie S.",
+    "Schneider, Adriano de Bernardi",
+    "Walker, Conor",
+    "Goldman, Nick",
+    "Turakhia, Yatish",
+    "Lanfear, Robert",
+    "Corbett-Detig, Russell"
+],
     "boldAuthors": [
       0
     ],
     "journal": "Virological.org",
     "year": 2021,
     "publisher": "https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473/16",
-    "doi": "10.1101/2021.04.03.438321"
+    "doi": "https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473/16"
   },
   {
     "id": "ishizaki2022crispr",
