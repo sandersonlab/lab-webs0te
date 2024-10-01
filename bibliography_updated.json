@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "sanderson2023molnupiravir",
+    "title": "A molnupiravir-associated mutational signature in global SARS-CoV-2 genomes",
+    "authors": [
+      "Sanderson, Theo",
+      "Hisner, Ryan",
+      "Donovan-Banfield, I\u2019ah",
+      "Hartman, Hassan",
+      "L\u00f8chen, Alessandra",
+      "Peacock, Thomas P.",
+      "Ruis, Christopher"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Nature",
+    "volume": "623",
+    "pages": "594--600",
+    "year": 2023,
+    "publisher": "Nature Publishing Group UK",
+    "doi": "10.1101/2023.01.26.23284998"
+  },
+  {
+    "id": "sanderson2023proteinfer",
+    "title": "ProteInfer, deep neural networks for protein functional inference",
+    "authors": [
+      "Sanderson, Theo",
+      "Bileschi, Maxwell L",
+      "Belanger, David",
+      "Colwell, Lucy J"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Elife",
+    "volume": "12",
+    "pages": "e80942",
+    "year": 2023,
+    "publisher": "eLife Sciences Publications Limited",
+    "doi": "10.7554/elife.80942.sa2"
+  },
+  {
+    "id": "russell2023regulators",
+    "title": "Regulators of male and female sexual development are critical for transmission of a malaria parasite",
+    "authors": [
+      "Russell, Andrew J C",
+      "Sanderson, Theo",
+      "Bushell, Ellen",
+      "Talman, Arthur M",
+      "Anar, Burcu",
+      "Girling, Gareth",
+      "Hunziker, Mirjam",
+      "Kent, Robyn S",
+      "Metcalf, Tom",
+      "Montandon, Ruddy",
+      "Pandey, Vikash",
+      "Brett Roberts, A",
+      "Sayers, Claire",
+      "Schwach, Frank",
+      "Rayner, Julian C",
+      "Voet, Thierry",
+      "Modrzynska, Katarzyna K",
+      "Waters, Andrew P.",
+      "Lawniczak, Mara K N",
+      "Billker, Oliver"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "Cell Host & Microbe",
+    "volume": "31",
+    "pages": "1229-1240.e6",
+    "year": 2023,
+    "publisher": "Elsevier",
+    "doi": "10.1101/2021.08.04.455056"
+  },
+  {
+    "id": "pastorio2022determinants",
+    "title": "Determinants of Spike infectivity, processing, and neutralization in SARS-CoV-2 Omicron subvariants BA. 1 and BA. 2",
+    "authors": [
+      "Pastorio, Chiara",
+      "Zech, Fabian",
+      "Noettger, Sabrina",
+      "Jung, Christoph",
+      "Jacob, Timo",
+      "Sanderson, Theo",
+      "Sparrer, Konstantin M.J.",
+      "Kirchhoff, Frank"
+    ],
+    "boldAuthors": [
+      5
+    ],
+    "journal": "Cell host & microbe",
+    "volume": "30",
+    "number": "9",
+    "pages": "1255--1268",
+    "year": 2022,
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.chom.2022.07.006"
+  },
+  {
+    "id": "bileschi2022using",
+    "title": "Using deep learning to annotate the protein universe",
+    "authors": [
+      "Bileschi, Maxwell L.",
+      "Belanger, David",
+      "Bryant, Drew",
+      "Sanderson, Theo",
+      "Carter, Brandon",
+      "Sculley, D.",
+      "DePristo, Mark A.",
+      "Colwell, Lucy J."
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "Nature Biotechnology",
+    "volume": "40",
+    "number": "6",
+    "pages": "932--937",
+    "year": 2022,
+    "publisher": "Nature Publishing Group US New York",
+    "doi": "10.1101/626507"
+  },
+  {
+    "id": "sanderson2022taxonium",
+    "title": "Taxonium, a web-based tool for exploring large phylogenetic trees",
+    "authors": [
+      "Sanderson, Theo"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "eLife",
+    "volume": "11",
+    "pages": "e82392",
+    "year": 2022,
+    "publisher": "eLife Sciences Publications Limited",
+    "doi": "10.1101/2022.06.03.494608"
+  },
+  {
+    "id": "hill2022origins",
+    "title": "The origins and molecular evolution of SARS-CoV-2 lineage B. 1.1. 7 in the UK",
+    "authors": [
+      "Hill, Verity",
+      "Du Plessis, Louis",
+      "Peacock, Thomas P.",
+      "Aggarwal, Dinesh",
+      "Colquhoun, Rachel",
+      "Carabelli, Alesandro M.",
+      "Ellaby, Nicholas",
+      "Gallagher, Eileen",
+      "Groves, Natalie",
+      "Jackson, Ben",
+      "McCrone, JT",
+      "O\u2019Toole, \u00c1ine",
+      "Price, Anna",
+      "Sanderson, Theo",
+      "Scher, Emily",
+      "Southgate, Joel",
+      "Volz, Erik",
+      "The COVID-19 genomics UK (COG-UK) consortium",
+      "Barclay, Wendy S.",
+      "Barrett, Jeffrey C.",
+      "Chand, Meera",
+      "Connor, Thomas",
+      "Goodfellow, Ian",
+      "Gupta, Ravindra K.",
+      "Harrison, Ewan M.",
+      "Loman, Nicholas",
+      "Myers, Richard",
+      "Robertson, David L",
+      "Pybus, Oliver G",
+      "Rambaut, Andrew"
+    ],
+    "boldAuthors": [],
+    "journal": "Virus Evolution",
+    "volume": "8",
+    "number": "2",
+    "pages": "veac080",
+    "year": 2022,
+    "publisher": "Oxford University Press UK",
+    "doi": "10.1101/2022.03.08.481609"
+  },
+  {
+    "id": "vohringer2021genomic",
+    "title": "Genomic reconstruction of the SARS-CoV-2 epidemic in England",
+    "authors": [
+      "V\u00f6hringer, Harald S.",
+      "Sanderson, Theo",
+      "Sinnott, Matthew",
+      "Maio, Nicola De",
+      "Nguyen, Thuy",
+      "Goater, Richard",
+      "Schwach, Frank",
+      "Harrison, Ian",
+      "Hellewell, Joel",
+      "Ariani, Cristina",
+      "Gon\u00e7alves, Sonia",
+      "Jackson, David",
+      "Johnston, Ian",
+      "Jung, Alexander W.",
+      "Saint, Callum",
+      "Sillitoe, John",
+      "Suciu, Maria",
+      "Goldman, Nick",
+      "Panovska-Griffiths, Jasmina",
+      "The Wellcome Sanger Institute Covid-19 Surveillance Team",
+      "The COVID-19 Genomics UK (COG-UK) Consortium",
+      "Birney, Ewan",
+      "Volz, Erik",
+      "Funk, Sebastian",
+      "Kwiatkowski, Dominic",
+      "Chand, Meera",
+      "Martincorena, Inigo",
+      "Barrett, Jeffrey C.",
+      "Gerstung, Moritz"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "Nature",
+    "volume": "600",
+    "number": "7889",
+    "pages": "506--511",
+    "year": 2021,
+    "publisher": "Nature Publishing Group UK London",
+    "doi": "10.1101/2021.05.22.21257633"
+  },
+  {
+    "id": "ndegwa2021using",
+    "title": "Using Plasmodium knowlesi as a model for screening Plasmodium vivax blood-stage malaria vaccine targets reveals new candidates",
+    "authors": [
+      "Ndegwa, Duncan N.",
+      "Hostetler, Jessica B.",
+      "Marin-Menendez, Alejandro",
+      "Sanderson, Theo",
+      "Mwikali, Kioko",
+      "Verzier, Lisa H.",
+      "Coyle, Rachael",
+      "Adjalley, Sophie",
+      "Rayner, Julian C."
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "PLoS Pathogens",
+    "volume": "17",
+    "number": "7",
+    "pages": "e1008864",
+    "year": 2021,
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "doi": "10.1101/2020.08.07.241125"
+  },
+  {
+    "id": "hellewell2021estimating",
+    "title": "Estimating the effectiveness of routine asymptomatic PCR testing at different frequencies for the detection of SARS-CoV-2 infections",
+    "authors": [
+      "Hellewell, Joel",
+      "Russell, Timothy W.",
+      "The SAFER Investigators and Field Study Team",
+      "The Crick COVID-19 Consortium",
+      "CMMID COVID-19 working group",
+      "Beale, Rupert",
+      "Kelly, Gavin",
+      "Houlihan, Catherine",
+      "Nastouli, Eleni",
+      "Kucharski, Adam J."
+    ],
+    "boldAuthors": [],
+    "journal": "BMC medicine",
+    "volume": "19",
+    "number": "1",
+    "pages": "1--10",
+    "year": 2021,
+    "publisher": "BioMed Central",
+    "doi": "10.1101/2020.11.24.20229948"
+  },
+  {
+    "id": "de2021impact",
+    "title": "The impact of viral mutations on recognition by SARS-CoV-2 specific T cells",
+    "authors": [
+      "de Silva, Thushan I.",
+      "Liu, Guihai",
+      "Lindsey, Benjamin B.",
+      "Dong, Danning",
+      "Shah, Dhruv",
+      "Mentzer, Alexander J.",
+      "Angyal, Adrienn",
+      "Brown, Rebecca",
+      "Parker, Matthew D.",
+      "Yin, Zixi",
+      "Yao, Xuan",
+      "Turtle, Lance",
+      "Dunachie, Susanna",
+      "Maini, Mala",
+      "Ogg, Graham",
+      "Knight, Julian",
+      "Peng, Yanchun",
+      "Rowland-Jones, Sarah L.",
+      "Dong, Tao"
+    ],
+    "boldAuthors": [],
+    "journal": "Iscience",
+    "volume": "24",
+    "number": "11",
+    "year": 2021,
+    "publisher": "Elsevier",
+    "doi": "10.2139/ssrn.3844713"
+  },
+  {
+    "id": "aunin2020genomic",
+    "title": "Genomic and transcriptomic evidence for descent from Plasmodium and loss of blood schizogony in Hepatocystis parasites from naturally infected red colobus monkeys",
+    "authors": [
+      "Aunin, Eerik",
+      "B\u00f6hme, Ulrike",
+      "Sanderson, Theo",
+      "Simons, Noah D",
+      "Goldberg, Tony L",
+      "Ting, Nelson",
+      "Chapman, Colin A",
+      "Newbold, Chris I",
+      "Berriman, Matthew",
+      "Reid, Adam J"
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "PLoS pathogens",
+    "volume": "16",
+    "number": "8",
+    "pages": "e1008717",
+    "year": 2020,
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "doi": "10.1101/871327"
+  },
+  {
+    "id": "houlihan2020pandemic",
+    "title": "Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline health-care workers",
+    "authors": [
+      "Houlihan, Catherine F",
+      "Vora, Nina",
+      "Byrne, Thomas",
+      "Lewer, Dan",
+      "Kelly, Gavin",
+      "Heaney, Judith",
+      "Gandhi, Sonia",
+      "Spyer, Moira J",
+      "Beale, Rupert",
+      "Cherepanov, Peter",
+      "others"
+    ],
+    "boldAuthors": [],
+    "journal": "The Lancet",
+    "volume": "396",
+    "number": "10246",
+    "pages": "e6--e7",
+    "year": 2020,
+    "publisher": "Elsevier",
+    "doi": "10.1111/irv.13022/v1/review1"
+  },
+  {
+    "id": "consortium2020scalable",
+    "title": "Scalable and Robust SARS-CoV-2 Testing in an Academic Center",
+    "authors": [
+      "Consortium, Crick Covid"
+    ],
+    "boldAuthors": [],
+    "journal": "Nature biotechnology",
+    "volume": "38",
+    "number": "7",
+    "pages": "927-931",
+    "year": 2020,
+    "publisher": "Nature Publishing Group",
+    "doi": "10.1101/2020.04.19.20071373"
+  },
+  {
+    "id": "hillier2019landscape",
+    "title": "Landscape of the Plasmodium interactome reveals both conserved and species-specific functionality",
+    "authors": [
+      "Hillier, Charles",
+      "Pardo, Mercedes",
+      "Yu, Lu",
+      "Bushell, Ellen",
+      "Sanderson, Theo",
+      "Metcalf, Tom",
+      "Herd, Colin",
+      "Anar, Burcu",
+      "Rayner, Julian C.",
+      "Billker, Oliver",
+      "Choudhary, Jyoti S."
+    ],
+    "boldAuthors": [
+      4
+    ],
+    "journal": "Cell reports",
+    "volume": "28",
+    "number": "6",
+    "pages": "1635--1647",
+    "year": 2019,
+    "publisher": "Elsevier",
+    "doi": "10.1016/j.celrep.2019.07.019"
+  },
+  {
+    "id": "stanway2019genome",
+    "title": "Genome-scale identification of essential metabolic processes for targeting the Plasmodium liver stage",
+    "authors": [
+      "Stanway, Rebecca R.",
+      "Bushell, Ellen",
+      "Chiappino-Pepe, Anush",
+      "Roques, Magali",
+      "Sanderson, Theo",
+      "Franke-Fayard, Blandine",
+      "Caldelari, Reto",
+      "Golomingi, Murielle",
+      "Nyonda, Mary",
+      "Pandey, Vikash",
+      "Schwach, Frank",
+      "Chevalley, S\u00e9verine",
+      "Ramesar, Jai",
+      "Metcalf, Tom",
+      "Herd, Colin",
+      "Burda, Paul-Christian",
+      "Rayner, Julian C.",
+      "Soldati-Favre, Dominique",
+      "Janse, Chris J.",
+      "Hatzimanikatis, Vassily",
+      "Billker, Oliver",
+      "Heussler, Volker T."
+    ],
+    "boldAuthors": [
+      4
+    ],
+    "journal": "Cell",
+    "volume": "179",
+    "number": "5",
+    "pages": "1112--1128",
+    "year": 2019,
+    "publisher": "Cell Press",
+    "doi": "10.1016/j.cell.2019.10.030"
+  },
+  {
+    "id": "bustamante2017synergistic",
+    "title": "Synergistic malaria vaccine combinations identified by systematic antigen screening",
+    "authors": [
+      "Bustamante, Leyla Y.",
+      "Powell, Gareth T.",
+      "Lin, Yen-Chun",
+      "Macklin, Michael D.",
+      "Cross, Nadia",
+      "Kemp, Alison",
+      "Cawkill, Paula",
+      "Sanderson, Theo",
+      "Crosnier, Cecile",
+      "Muller-Sienerth, Nicole",
+      "Doumbo, Ogobara K.",
+      "Traore, Boubacar",
+      "Crompton, Peter D.",
+      "Cicuta, Pietro",
+      "Tran, Tuan M.",
+      "Wright, Gavin J.",
+      "Rayner, Julian C."
+    ],
+    "boldAuthors": [
+      7
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "114",
+    "number": "45",
+    "pages": "12045--12050",
+    "year": 2017,
+    "publisher": "National Academy of Sciences",
+    "doi": "10.1073/pnas.1702944114"
+  },
+  {
+    "id": "bushell2017functional",
+    "title": "Functional profiling of a Plasmodium genome reveals an abundance of essential genes",
+    "authors": [
+      "Bushell, Ellen",
+      "Gomes, Ana Rita",
+      "Sanderson, Theo",
+      "Anar, Burcu",
+      "Girling, Gareth",
+      "Herd, Colin",
+      "Metcalf, Tom",
+      "Modrzynska, Katarzyna",
+      "Schwach, Frank",
+      "Martin, Rowena E.",
+      "Mather, Michael W.",
+      "McFadden, Geoffrey I.",
+      "Parts, Leopold",
+      "Rutledge, Gavin G.",
+      "Vaidya, Akhil B.",
+      "Wengelnik, Kai",
+      "Rayner, Julian C.",
+      "Billker, Oliver"
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "Cell",
+    "volume": "170",
+    "number": "2",
+    "pages": "260--272",
+    "year": 2017,
+    "publisher": "Cell Press",
+    "doi": "10.1016/j.cell.2017.06.030"
+  },
+  {
+    "id": "sanderson2017phenoplasm",
+    "title": "PhenoPlasm: a database of disruption phenotypes for malaria parasite genes",
+    "authors": [
+      "Sanderson, Theo",
+      "Rayner, Julian C."
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Wellcome Open Research",
+    "volume": "2",
+    "pages": "45",
+    "year": 2017,
+    "publisher": "The Wellcome Trust",
+    "doi": "10.1101/101717"
+  },
+  {
+    "id": "pinheiro2015plasmodium",
+    "title": "Plasmodium knowlesi genome sequences from clinical isolates reveal extensive genomic dimorphism",
+    "authors": [
+      "Pinheiro, Miguel M.",
+      "Ahmed, Md Atique",
+      "Millar, Scott B.",
+      "Sanderson, Theo",
+      "Otto, Thomas D.",
+      "Lu, Woon Chan",
+      "Krishna, Sanjeev",
+      "Rayner, Julian C.",
+      "Cox-Singh, Janet"
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "Plos one",
+    "volume": "10",
+    "number": "4",
+    "pages": "e0121303",
+    "year": 2015,
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "doi": "10.1371/journal.pone.0121303"
+  },
+  {
+    "id": "reeve2014synthetic",
+    "title": "How synthetic biology will reconsider natural bioluminescence and its applications",
+    "authors": [
+      "Reeve, Benjamin",
+      "Sanderson, Theo",
+      "Ellis, Tom",
+      "Freemont, Paul"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "Bioluminescence: Fundamentals and Applications in Biotechnology-Volume 2",
+    "pages": "3--30",
+    "year": 2014,
+    "publisher": "Springer Berlin Heidelberg",
+    "doi": "10.1007/978-3-662-43619-6_1"
+  },
+  {
+    "id": "sanderson2017plasmotron",
+    "title": "PlasmoTron: an open-source platform for automated culture of malaria parasites",
+    "authors": [
+      "Sanderson, Theo",
+      "Rayner, Julian C."
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "BioRxiv",
+    "pages": "241596",
+    "year": 2017,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "doi": "10.1101/241596"
+  },
+  {
+    "id": "verzier2019plasmodium",
+    "title": "Plasmodium knowlesi as a model system for characterising Plasmodium vivax drug resistance candidate genes",
+    "authors": [
+      "Verzier, Lisa H.",
+      "Coyle, Rachael",
+      "Singh, Shivani",
+      "Sanderson*, Theo",
+      "Rayner*, Julian C."
+    ],
+    "boldAuthors": [
+      3
+      
+    ],
+    "journal": "PLoS neglected tropical diseases",
+    "volume": "13",
+    "number": "6",
+    "pages": "e0007470",
+    "year": 2019,
+    "publisher": "Public Library of Science",
+    "doi": "10.1371/journal.pntd.0007470"
+  },
+  {
+    "id": "carter2020critiquing",
+    "title": "Critiquing protein family classification models using sufficient input subsets",
+    "authors": [
+      "Carter, Brandon",
+      "Bileschi, Maxwell L.",
+      "Smith, Jamie",
+      "Sanderson, Theo",
+      "Bryant, Drew",
+      "Belanger, David",
+      "Colwell, Lucy J."
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "Journal of Computational Biology",
+    "volume": "27",
+    "number": "8",
+    "pages": "1219--1231",
+    "year": 2020,
+    "publisher": "Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New",
+    "doi": "10.1101/674119"
+  },
+  {
+    "id": "carrasquilla2019quantitation",
+    "title": "Quantitation of vector uptake reveals non-Poissonian transfection dynamics in Plasmodium falciparum",
+    "authors": [
+      "Carrasquilla, Manuela",
+      "Sanderson, Theo",
+      "Montandon, Ruddy",
+      "Rayner, Julian",
+      "Pance, Alena",
+      "Lee, Marcus"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "BioRxiv",
+    "pages": "681981",
+    "year": 2019,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "doi": "10.1101/681981"
+  },
+  {
+    "id": "carrasquilla2020defining",
+    "title": "Defining multiplicity of vector uptake in transfected Plasmodium parasites",
+    "authors": [
+      "Carrasquilla, Manuela",
+      "Adjalley, Sophie",
+      "Sanderson, Theo",
+      "Marin-Menendez, Alejandro",
+      "Coyle, Rachael",
+      "Montandon, Ruddy",
+      "Rayner, Julian C.",
+      "Pance, Alena",
+      "Lee, Marcus C. S."
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "Scientific Reports",
+    "volume": "10",
+    "number": "1",
+    "pages": "10894",
+    "year": 2020,
+    "publisher": "Nature Publishing Group UK London",
+    "doi": "10.1038/s41598-020-67791-z"
+  },
+  {
+    "id": "korbmacher2021apicoplast",
+    "title": "An apicoplast-resident folate transporter is essential for sporogony of malaria parasites",
+    "authors": [
+      "Korbmacher, Francois",
+      "Drepper, Benjamin",
+      "Sanderson, Theo",
+      "Martin, Peer",
+      "Stach, Thomas",
+      "Maier, Alexander G.",
+      "Matuschewski, Kai",
+      "Matz, Joachim M."
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "Cellular microbiology",
+    "volume": "23",
+    "number": "1",
+    "pages": "e13266",
+    "year": 2021,
+    "publisher": "John Wiley & Sons, Inc. Chichester, UK",
+    "doi": "10.1111/cmi.13266"
+  },
+  {
+    "id": "sanderson2017open",
+    "title": "Open hardware for random access plate storage",
+    "authors": [
+      "Sanderson, Theo"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Authorea Preprints",
+    "year": 2017,
+    "publisher": "Authorea",
+    "doi": "10.22541/au.151256010.05822142"
+  },
+  {
+    "id": "buck2020standard",
+    "title": "Standard operating procedures for SARS-CoV-2 detection by a clinical diagnostic RT-LAMP assay",
+    "authors": [
+      "Buck, Michael D",
+      "Poirier, Enzo Z",
+      "Cardoso, Ana",
+      "Frederico, Bruno",
+      "Canton, Johnathan",
+      "Barrell, Sam",
+      "Beale, Rupert",
+      "Byrne, Richard",
+      "Caidan, Simon",
+      "Crawford, Margaret",
+      "others"
+    ],
+    "boldAuthors": [],
+    "journal": "medRxiv",
+    "pages": "2020--06",
+    "year": 2020,
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "doi": "10.1101/2020.06.29.20142430"
+  },
+  {
+    "id": "balestrini2021clinical",
+    "title": "Clinical outcomes of COVID-19 in long-term care facilities for people with epilepsy",
+    "authors": [
+      "Balestrini, Simona",
+      "Koepp, Matthias J",
+      "Gandhi, Sonia",
+      "Rickman, Hannah M",
+      "Shin, Gee Yen",
+      "Houlihan, Catherine F",
+      "Anders-Cannon, Jonny",
+      "Silvennoinen, Katri",
+      "Xiao, Fenglai",
+      "Zagaglia, Sara",
+      "Hudgell, Kirsty",
+      "Ziomek, Mariusz",
+      "Haimes, Paul",
+      "Sampson, Adam",
+      "Parker, Annie",
+      "for The Meath",
+      "Nastouli, Eleni",
+      "Swanton, Charles",
+      "for the CCC",
+      "Sander, Josemir W",
+      "Sisodiya, Sanjay M",
+      "for the ASAP Consortium"
+    ],
+    "boldAuthors": [],
+    "journal": "Epilepsy & Behavior",
+    "volume": "115",
+    "pages": "107602",
+    "year": 2021,
+    "publisher": "Academic Press",
+    "doi": "10.1101/2020.06.10.20123281"
+  },
+  {
+    "id": "sanderson2021variation",
+    "title": "Variation at Spike position 142 in SARS-CoV-2 Delta genomes is a technical artifact caused by dropout of a sequencing amplicon",
+    "authors": [
+      "Sanderson, Theo",
+      "Barrett, Jeffrey C."
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Wellcome Open Research",
+    "year": 2021,
+    "doi": "10.1101/2021.10.14.21264847"
+  },
+  {
+    "id": "sanderson2021chronumental",
+    "title": "Chronumental: time tree estimation from very large phylogenies",
+    "authors": [
+      "Sanderson, Theo"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "bioRxiv",
+    "pages": "2021--10",
+    "year": 2021,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "doi": "10.1101/2021.10.27.465994"
+  },
+  {
+    "id": "sanderson2021mixology",
+    "title": "Mixology: a tool for calculating required masses and volumes for laboratory solutions",
+    "authors": [
+      "Sanderson, Theo"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "year": 2021,
+    "doi": "10.1101/2021.01.30.428948"
+  },
+  {
+    "id": "carrasquilla2022barcoding",
+    "title": "Barcoding genetically distinct Plasmodium falciparum strains for comparative assessment of fitness and antimalarial drug resistance",
+    "authors": [
+      "Carrasquilla, Manuela",
+      "Drammeh, Ndey Fatou",
+      "Rawat, Mukul",
+      "Sanderson, Theo",
+      "Zenonos, Zenon",
+      "Rayner, Julian C",
+      "Lee, Marcus CS"
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "Mbio",
+    "volume": "13",
+    "number": "5",
+    "pages": "e00937--22",
+    "year": 2022,
+    "publisher": "American Society for Microbiology 1752 N St., NW, Washington, DC",
+    "doi": "10.1101/2022.04.05.487250"
+  },
+  {
+    "id": "mears2022emergence",
+    "title": "Emergence of new subgenomic mRNAs in SARS-CoV-2",
+    "authors": [
+      "Mears, Harriet V",
+      "Young, George R",
+      "Sanderson, Theo",
+      "Harvey, Ruth",
+      "Crawford, Margaret",
+      "Snell, Daniel M",
+      "Fowler, Ashley S",
+      "Hussain, Saira",
+      "Nicod, J\u00e9r\u00f4me",
+      "Peacock, Thomas P",
+      "Emmott, Edward",
+      "Finsterbusch, Katja",
+      "Luptak, Jakub",
+      "Wall, Emma",
+      "Williams, Bryan",
+      "Gandhi, Sonia",
+      "Swanton, Charles",
+      "Bauer, David LV"
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "BioRxiv",
+    "pages": "2022--04",
+    "year": 2022,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "doi": "10.1101/2022.04.20.488895"
+  },
+  {
+    "id": "sanderson2021systematic",
+    "title": "Systematic Errors Associated with Some Implementations of ARTIC V4 and a Fast Workflow to Prescreen Samples for New Problematic Sites",
+    "authors": [
+      "McBroome, Jakob",
+      "Thornlow, Bryan",
+      "Hinrichs, Angie S.",
+      "De Maio, Nicola",
+      "Goldman, Nick",
+      "Haussler, David",
+      "Corbett-Detig, Russell",
+      "Turakhia, Yatish"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Virological.org",
+    "year": 2021,
+    "publisher": "https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473/16",
+    "doi": "10.1101/2021.04.03.438321"
+  },
+  {
+    "id": "ishizaki2022crispr",
+    "title": "CRISPR/Cas9 and genetic screens in malaria parasites: small genomes, big impact",
+    "authors": [
+      "Ishizaki, Takahiro",
+      "Hernandez, Sophia",
+      "Paoletta, Martina S.",
+      "Sanderson, Theo",
+      "Bushell, Ellen S.C."
+    ],
+    "boldAuthors": [
+      3
+    ],
+    "journal": "Biochemical Society Transactions",
+    "volume": "50",
+    "number": "3",
+    "pages": "1069--1079",
+    "year": 2022,
+    "publisher": "Portland Press Ltd.",
+    "doi": "10.1042/bst20210281"
+  },
+  {
+    "id": "kramer2023treenome",
+    "title": "Treenome Browser: co-visualization of enormous phylogenies and millions of genomes",
+    "authors": [
+      "Kramer, Alexander M.",
+      "Sanderson, Theo",
+      "Corbett-Detig, Russell"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "Bioinformatics",
+    "volume": "39",
+    "number": "1",
+    "pages": "btac772",
+    "year": 2023,
+    "publisher": "Oxford University Press",
+    "doi": "10.1101/2022.09.28.509985"
+  },
+  {
+    "id": "bileschi2022predicting",
+    "title": "Predicting biological functions of proteins using dilated convolutional neural networks",
+    "authors": [
+      "Sanderson, Theo",
+      "Bileschi, Maxwell L",
+      "Belanger, David",
+      "Colwell, Lucy J"
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "year": 2022,
+    "note": "US Patent App. US20220172055A1",
+    "type": "misc",
+    "doi": "10.7554/elife.80942.sa2"
+  },
+  {
+    "id": "cotton2023investigation",
+    "title": "Investigation of hospital discharge cases and SARS-CoV-2 introduction into Lothian care homes",
+    "authors": [
+      "Cotton, S",
+      "McHugh, MP",
+      "Dewar, R",
+      "Haas, JG",
+      "Templeton, K",
+      "Robson, Samuel C",
+      "Connor, Thomas R",
+      "Loman, Nicholas J",
+      "Golubchik, Tanya",
+      "Nunez, Rocio T Martinez",
+      "others"
+    ],
+    "boldAuthors": [],
+    "journal": "Journal of Hospital Infection",
+    "volume": "135",
+    "pages": "28--36",
+    "year": 2023,
+    "publisher": "WB Saunders",
+    "doi": "10.7717/peerj.16310/table-2"
+  },
+  {
+    "id": "bailey2023independent",
+    "title": "Independent SARS-CoV-2 staff testing protected academic and health-care institutions in northwest London",
+    "authors": [
+      "Bailey, Chris",
+      "Sanderson, Theo",
+      "Townsley, Hermaleigh",
+      "Goldman, Jacki",
+      "Black, James R M",
+      "Young, George",
+      "Goldstone, Robert",
+      "Fowler, Ashley S",
+      "Ward, Sophia",
+      "Jackson, Deborah J",
+      "Cubitt, Laura",
+      "Dearing, Vicky",
+      "O'Neil, Olga",
+      "Crawford, Marg",
+      "Snell, Daniel",
+      "Finadis, Makis",
+      "Edwards, Amelia",
+      "Perez-Lloret, Jimena",
+      "Gahir, Joshua",
+      "Carr, Edward J",
+      "Riddell, Andy",
+      "Aitken, Jim",
+      "Ambrose, Karen",
+      "Sawyer, Chelsea",
+      "O'Reilly, Nicola",
+      "Caidan, Simon",
+      "Wu, Mary Y",
+      "Walker, Philip A",
+      "Hindmarsh, Steve",
+      "Howell, Michael",
+      "Jordan, Andrew",
+      "Fleming, James",
+      "Houlihan, Catherine",
+      "Nastouli, Eleni",
+      "Moores, Rachel",
+      "Hsu, Desmond",
+      "Papineni, Padmasayee",
+      "Corrah, Tumena",
+      "Gilson, Richard",
+      "MacRae, James",
+      "Hubank, Michael",
+      "Van As, Nicholas",
+      "Turajlic, Samra",
+      "Beale, Rupert",
+      "Levi, Marcel",
+      "Barrell, Sam",
+      "Williams, Bryan",
+      "Gamblin, Steve",
+      "Nicod, Jerome",
+      "Gandhi, Sonia",
+      "Bauer, David L V",
+      "Wall, Emma C",
+      "Swanton, Charles"
+    ],
+    "boldAuthors": [
+      1
+    ],
+    "journal": "The Lancet",
+    "year": 2023,
+    "doi": "10.1016/s0140-6736(23)00917-0"
+  },
+  {
+    "id": "standing2024randomized",
+    "title": "Randomized controlled trial of molnupiravir SARS-CoV-2 viral and antibody response in at-risk adult outpatients",
+    "authors": [
+      "Standing, Joseph F.",
+      "Buggiotti, Laura",
+      "Guerra-Assuncao, Jose Afonso",
+      "Woodall, Maximillian",
+      "Ellis, Samuel",
+      "Agyeman, Akosua A.",
+      "Miller, Charles",
+      "Okechukwu, Mercy",
+      "Kirkpatrick, Emily",
+      "Jacobs, Amy I.",
+      "Williams, Charlotte A.",
+      "Roy, Sunando",
+      "Martin-Bernal, Luz M.",
+      "Williams, Rachel",
+      "Smith, Claire M.",
+      "Sanderson, Theo",
+      "Ashford, Fiona B.",
+      "Emmanuel, Beena",
+      "Afzal, Zaheer M.",
+      "Shields, Adrian",
+      "Richter, Alex G.",
+      "Dorward, Jienchi",
+      "Gbinigie, Oghenekome",
+      "Van Hecke, Oliver",
+      "Lown, Mark",
+      "Francis, Nick",
+      "Jani, Bhautesh",
+      "Richards, Duncan B.",
+      "Rahman, Najib M.",
+      "Yu, Ly-Mee",
+      "Thomas, Nicholas P. B.",
+      "Hart, Nigel D.",
+      "Evans, Philip",
+      "Andersson, Monique",
+      "Hayward, Gail",
+      "Hood, Kerenza",
+      "Nguyen-Van-Tam, Jonathan S.",
+      "Little, Paul",
+      "Hobbs, F. D. Richard",
+      "Khoo, Saye",
+      "Butler, Christopher",
+      "Lowe, David M.",
+      "Breuer, Judith",
+      "PANORAMIC Virology Group",
+      "Allen, Julie",
+      "Bayzid, Nadua",
+      "Brown, Julianne",
+      "Burns, Doug",
+      "Hadley, Elizabeth",
+      "Hatcher, Jim",
+      "McHugh, Tim",
+      "Thalasselis, Chris",
+      "Tomlinson, Mia",
+      "Yongblah, Francis"
+    ],
+    "boldAuthors": [],
+    "journal": "Nature Communications",
+    "volume": "15",
+    "number": "1",
+    "pages": "1652",
+    "year": 2024,
+    "publisher": "Nature Publishing Group UK London",
+    "doi": "10.1038/s41467-024-45641-0"
+  },
+  {
+    "id": "shawe2024divergent",
+    "title": "Divergent performance of vaccines in the UK autumn 2023 COVID-19 booster campaign",
+    "authors": [
+      "Shawe-Taylor, Marianne",
+      "Greenwood, David",
+      "Hobbs, Agnieszka",
+      "Dowgier, Giulia",
+      "Penn, Rebecca",
+      "Sanderson, Theo",
+      "Stevenson-Leggett, Phoebe",
+      "Bazire, James",
+      "Harvey, Ruth",
+      "Libri, Vincenzo",
+      "Kassiotis, George",
+      "Gamblin, Steve",
+      "Lewis, Nicola S",
+      "Williams, Bryan",
+      "Swanton, Charles",
+      "Gandhi, Sonia",
+      "Carr, Edward J",
+      "Wu, Mary Y",
+      "Bauer, David L V",
+      "Wall, Emma C"
+    ],
+    "boldAuthors": [
+      5
+    ],
+    "journal": "The Lancet",
+    "volume": "403",
+    "number": "10432",
+    "pages": "1133--1136",
+    "year": 2024,
+    "publisher": "Elsevier",
+    "doi": "10.1016/s0140-6736(24)00316-7"
+  },
+  {
+    "id": "sanderson2024web",
+    "title": "A web tool for exploring the usage of medicines in hospitals in England",
+    "authors": [
+      "Sanderson, Theo"
+    ],
+    "boldAuthors": [
+      0
+    ],
+    "journal": "Wellcome Open Research",
+    "volume": "9",
+    "number": "147",
+    "pages": "147",
+    "year": 2024,
+    "publisher": "F1000 Research Limited",
+    "doi": "10.12688/wellcomeopenres.20766.1"
+  },
+  {
+    "id": "hunt2024addressing",
+    "title": "Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny",
+    "authors": [
+      "Turakhia, Yatish",
+      "Thornlow, Bryan",
+      "Hinrichs, Angie S.",
+      "De Maio, Nicola",
+      "Gozashti, Landen",
+      "Lanfear, Robert",
+      "Haussler, David",
+      "Corbett-Detig, Russell"
+    ],
+    "boldAuthors": [],
+    "journal": "bioRxiv",
+    "year": 2024,
+    "publisher": "Cold Spring Harbor Laboratory Preprints",
+    "doi": "10.1101/2020.09.26.314971"
+  },
+  {
+    "id": "muwhezi2024application",
+    "title": "Application of barcode sequencing to increase the throughput and complexity of Plasmodium falciparum genetic screening",
+    "authors": [
+      "Muhwezi, Allan",
+      "Ghorbal, Mehdi",
+      "Sanderson, Theo",
+      "Ivanova, Maria",
+      "Ansari, Rizwan",
+      "Harper, Sarah",
+      "Wong, Wesley",
+      "Schulte, Reiner",
+      "Girling, Gareth",
+      "Schwach, Frank",
+      "Bushell, Ellen",
+      "Beaver, Charlotte",
+      "Billker, Oliver",
+      "Rayner, Julian C."
+    ],
+    "boldAuthors": [
+      2
+    ],
+    "journal": "bioRxiv",
+    "pages": "2024--09",
+    "year": 2024,
+    "publisher": "Cold Spring Harbor Laboratory",
+    "doi": "10.1101/2024.09.05.611197"
+  },
+  {
+    "id": "russell2024real",
+    "title": "Real-time estimation of immunological responses against emerging SARS-CoV-2 variants in the UK: a mathematical modelling study",
+    "authors": [
+      "Russell, Timothy W",
+      "Townsley, Hermaleigh",
+      "Hellewell, Joel",
+      "Gahir, Joshua",
+      "Shawe-Taylor, Marianne",
+      "Greenwood, David",
+      "Hodgson, David",
+      "Hobbs, Agnieszka",
+      "Dowgier, Giulia",
+      "Penn, Rebecca",
+      "Sanderson, Theo",
+      "Stevenson-Leggett, Phoebe",
+      "Bazire, James",
+      "Harvey, Ruth",
+      "Fowler, Ashley S",
+      "Miah, Murad",
+      "Smith, Callie",
+      "Miranda, Mauro",
+      "Bawumia, Philip",
+      "Mears, Harriet V",
+      "Adams, Lorin",
+      "Hatipoglu, Emine",
+      "O'Reilly, Nicola",
+      "Warchal, Scott",
+      "Ambrose, Karen",
+      "Strange, Amy",
+      "Kelly, Gavin",
+      "Kjar, Svend",
+      "Papineni, Padmasayee",
+      "Corrah, Tumena",
+      "Gilson, Richard",
+      "Libri, Vincenzo",
+      "Kassiotis, George",
+      "Gamblin, Steve",
+      "Lewis, Nicola S",
+      "Williams, Bryan",
+      "Swanton, Charles",
+      "Gandhi, Sonia",
+      "Beale, Rupert",
+      "Wu, Mary Y",
+      "Bauer, David L V",
+      "Carr, Edward J",
+      "Wall, Emma C",
+      "Kucharski, Adam J"
+    ],
+    "boldAuthors": [10],
+    "journal": "The Lancet Infectious Diseases",
+    "year": 2024,
+    "publisher": "Elsevier",
+    "doi": "10.1016/s1473-3099(24)00484-5"
+  }
+]
