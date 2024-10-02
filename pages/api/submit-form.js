@@ -23,7 +23,7 @@ export default async function handler(req, res) {
 
     // TODO: Implement CAPTCHA verification here
 
-    const { name, institution, github, message } = fields;
+    const { name, institution, github, message, email } = fields;
     const cvFile = files.cv && files.cv[0];  // Note: files.cv might be an array
 
     if (!cvFile || !cvFile.filepath) {
@@ -50,7 +50,7 @@ export default async function handler(req, res) {
         from: process.env.EMAIL_FROM,
         to: process.env.ADMIN_EMAIL,
         subject: 'New Sanderson Lab Application Submission',
-        text: `Name: ${name}\nInstitution: ${institution}\nGitHub: ${github}\nMessage: ${message}`,
+        text: `Name: ${name}\nInstitution: ${institution}\nGitHub: ${github}\nEmail: ${email}\nMessage: ${message}`,
         attachments: [
           {
             filename: cvFile.originalFilename,
