@@ -927,23 +927,7 @@
     "publisher": "Oxford University Press",
     "doi": "10.1101/2022.09.28.509985"
   },
-  {
-    "id": "bileschi2022predicting",
-    "title": "Predicting biological functions of proteins using dilated convolutional neural networks",
-    "authors": [
-      "Sanderson, Theo",
-      "Bileschi, Maxwell L",
-      "Belanger, David",
-      "Colwell, Lucy J"
-    ],
-    "boldAuthors": [
-      2
-    ],
-    "year": 2022,
-    "note": "US Patent App. US20220172055A1",
-    "type": "misc",
-    "doi": "10.7554/elife.80942.sa2"
-  },
+  
   {
     "id": "cotton2023investigation",
     "title": "Investigation of hospital discharge cases and SARS-CoV-2 introduction into Lothian care homes",
