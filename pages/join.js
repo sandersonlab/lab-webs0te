@@ -102,15 +102,16 @@ const ApplyPage = () => {
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="text-indigo-600 hover:text-indigo-800">
-                Nature: Molnupiravir-associated mutational signature
+                A molnupiravir-associated mutational signature in global SARS-CoV-2 genomes
+
               </a>
             </li>
             <li>
-              <a href="https://www.pnas.org/doi/10.1073/pnas.2321593121" 
+              <a href="https://www.pnas.org/doi/10.1073/pnas.1811345115" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="text-indigo-600 hover:text-indigo-800">
-                PNAS: Antiviral-induced mutation mechanisms
+                The mechanism of resistance to favipiravir in influenza
               </a>
             </li>
           </ul>
