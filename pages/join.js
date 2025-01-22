@@ -74,9 +74,8 @@ const ApplyPage = () => {
         <div className="bg-indigo-50 p-4 rounded-lg">
           <h3 className="font-semibold text-indigo-800 mb-2">You'll have the opportunity to:</h3>
           <ul className="list-disc list-inside space-y-2">
-            <li>Develop bioinformatic methods for studying viral evolution</li>
+            <li>Gain skills in bioinformatic methods for studying viral evolution and modelling it</li>
             <li>Gain wet-lab virology experience using coronavirus models</li>
-            <li>Work with leading researchers in antiviral drug development</li>
           </ul>
         </div>
 
