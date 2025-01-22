@@ -119,7 +119,7 @@ const ApplyPage = () => {
         <div className="mt-4 p-3 bg-yellow-50 rounded-lg">
           <p className="text-sm text-yellow-800">
             ⏰ Application deadline: End of February 2025<br />
-            📧 Questions? Contact <a href="mailto:theo@theo.io" className="text-indigo-600 hover:text-indigo-800">Theo Sanderson</a> or DM
+            📧 Questions? Contact <a href="mailto:theo@theo.io" className="text-indigo-600 hover:text-indigo-800">Theo Sanderson</a> or Co-Supervisor, Daniel Goldhill at RVC
           </p>
         </div>
       </div>
