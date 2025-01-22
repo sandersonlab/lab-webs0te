@@ -62,6 +62,70 @@ const ApplyPage = () => {
           </p>
         </div>
 
+        <div className="bg-white bg-opacity-90 rounded-lg shadow-lg p-8 mt-8 border-2 border-indigo-100">
+      <h2 className="text-2xl font-semibold text-indigo-800 mb-4">
+        🎺 PhD Studentship Opportunity - Antiviral-induced Viral Evolution
+      </h2>
+      <div className="space-y-4">
+        <p className="text-gray-700">
+          We're advertising a collaborative project between LSHTM and the Royal Veterinary College (RVC) to investigate how mutagenic antiviral drugs can generate highly mutated yet viable viruses.
+        </p>
+        
+        <div className="bg-indigo-50 p-4 rounded-lg">
+          <h3 className="font-semibold text-indigo-800 mb-2">You'll have the opportunity to:</h3>
+          <ul className="list-disc list-inside space-y-2">
+            <li>Develop bioinformatic methods for studying viral evolution</li>
+            <li>Gain wet-lab virology experience using coronavirus models</li>
+            <li>Work with leading researchers in antiviral drug development</li>
+          </ul>
+        </div>
+
+        <div className="mt-4">
+          <a 
+            href="https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding/2025-26-bloomsbury-colleges-phd-studentships"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center px-4 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-colors"
+          >
+            View Studentship Details
+            <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+
+        <div className="mt-6 text-sm text-gray-600">
+          <h4 className="font-semibold mb-2">Background reading:</h4>
+          <ul className="space-y-1">
+            <li>
+              <a href="https://www.nature.com/articles/s41586-023-06649-6" 
+                 target="_blank" 
+                 rel="noopener noreferrer"
+                 className="text-indigo-600 hover:text-indigo-800">
+                A molnupiravir-associated mutational signature in global SARS-CoV-2 genomes
+
+              </a>
+            </li>
+            <li>
+              <a href="https://www.pnas.org/doi/10.1073/pnas.1811345115" 
+                 target="_blank" 
+                 rel="noopener noreferrer"
+                 className="text-indigo-600 hover:text-indigo-800">
+                The mechanism of resistance to favipiravir in influenza
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div className="mt-4 p-3 bg-yellow-50 rounded-lg">
+          <p className="text-sm text-yellow-800">
+            ⏰ Application deadline: End of February 2025<br />
+            📧 Questions? Contact <a href="mailto:theo@theo.io" className="text-indigo-600 hover:text-indigo-800">Theo Sanderson</a> or DM
+          </p>
+        </div>
+      </div>
+    </div>
+
         <div className="bg-white bg-opacity-90 rounded-lg shadow-lg p-8 mt-8">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">
             Express informal interest in joining the laboratory
